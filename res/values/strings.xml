@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Laura!</string>
+    <string name="app_name">Laura</string>
+    <string name="btn_test">Button Test</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_refresh">Refresh</string>
+
+</resources>
